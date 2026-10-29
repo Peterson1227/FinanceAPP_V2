@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Ícone branco com transparência para barra de status de notificações. -->
+    <path
+        android:pathData="M2,21 L2,14 L6,14 L6,21 Z M9,21 L9,10 L13,10 L13,21 Z M16,21 L16,6 L20,6 L20,21 Z"
+        android:fillColor="#FFFFFFFF" />
+    <path
+        android:pathData="M2,10 L9,5 L13,7 L20,2"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent" />
+</vector>

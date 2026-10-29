@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Moeda circular com gráfico crescente: finanças e evolução. -->
+    <path
+        android:pathData="M54,18 A36,36 0,1 1,54 90 A36,36 0,1 1,54 18"
+        android:fillColor="#24304A" />
+    <path
+        android:pathData="M54,23 A31,31 0,1 1,54 85 A31,31 0,1 1,54 23"
+        android:strokeWidth="2.2"
+        android:strokeColor="#BCEFE2"
+        android:fillColor="@android:color/transparent" />
+    <path
+        android:pathData="M35,65 L35,59 M46,65 L46,53 M57,65 L57,47 M68,65 L68,39"
+        android:strokeColor="#BCEFE2"
+        android:strokeLineCap="round"
+        android:strokeWidth="6.5"
+        android:fillColor="@android:color/transparent" />
+    <path
+        android:pathData="M32,49 L45,43 L56,47 L72,32 M63,32 L72,32 L72,41"
+        android:strokeColor="#10B981"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:strokeWidth="4"
+        android:fillColor="@android:color/transparent" />
+</vector>
